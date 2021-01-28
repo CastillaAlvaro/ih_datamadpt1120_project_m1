@@ -1,6 +1,6 @@
 # ih_datamadpt1120_project_m1
 
-This project consist mainly in extracting some data from three differente sources, transforme it and be able to obtain insights.
+This project consists mainly in extracting some data from three differente sources, transforme it and be able to obtain insights.
 
 - The first source used to retrieve some data, is a **.db file**. In this file you will find a sample of different european citizens answering several questions  related to politics. Furthermore, you will see some other relevant information such as **gender, age, country, level of studies, etc.** 
 
