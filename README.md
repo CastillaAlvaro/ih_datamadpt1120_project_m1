@@ -58,7 +58,8 @@ conda activate name_env
 
 ### Output
 ```
-- Three different csv with the raw information (Query = df_sql_query.csv , APi = df_api.csv', Eurostat = df_countries.csv)
+- Three different csv files with the information obtained from the different sources (Query = df_sql_query.csv , APi = df_api.csv', Eurostat = df_countries.csv)
+
 - Aditional csv with all Dataframes merged and with the data processed (df_countries.csv)
 
 - A csv with the result. Two options:
