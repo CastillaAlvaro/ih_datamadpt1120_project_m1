@@ -15,6 +15,7 @@ This project consists mainly in extracting some data from three differente sourc
 
 ---
 
+Once checked the information provided by the API, I figured out that all job codes contained in the first dataset, were related to Data Analysis. The main **objective** was to be able to extract a table where it could be easy to see how many people living in a rural environment were employed, and what kind of profile could be found between the different countries.
 
 ## **First Steps**
 1. Clone github
