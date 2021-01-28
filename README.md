@@ -56,6 +56,10 @@ conda activate name_env
  - In the terminal write:  **python main.py -p raw_data_project_m1.db**  or  **main.py -p raw_data_project_m1.db -c  'specific country'**
                                   
 
-### :file_folder: Folder structure
+### Output
 ```
-└── project
+- Three different csv with the raw information (Query = df_sql_query.csv , APi = df_api.csv', Eurostat = df_countries.csv)
+- Aditional csv with all Dataframes merged and with the data processed (df_countries.csv)
+- A csv with the result. Two options:
+                                1. With all countries (df_rural.csv)
+                                2. With specific country (df_specific country.csv)
