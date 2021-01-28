@@ -46,7 +46,7 @@ conda activate name_env
 
 -  As we are using **argparse** you have to specify to parameter to run the script:
         
-        '-p' '--path' (which is required) / '-c' '--country' (Optional - Default=all)
+        '-p' '--path' (required) / '-c' '--country' (optional - Default=all)
         
                                             country_choices=['Austria', 'Belgium', 'Bulgaria', 'Cyprus', 'Czechia', 'Germany', 'Denmark', 'Estonia',
                                             'Spain', 'Finland', 'France','United Kingdom', 'Greece', 'Croatia', 'Hungary', 
