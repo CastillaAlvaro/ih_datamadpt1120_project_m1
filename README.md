@@ -6,7 +6,7 @@ This project consists mainly in extracting some data from three differente sourc
 
 - The second source, is an API **(Open Skills Project)**. From this fount has been retrieved the job names that correspond to the several job codes that appear in the first source, the .db file. Otherwise, it would have been difficult to understand which was the professional background of the people surveyed.
 
-- Third source is the Eurostat website. In this site, it has been used some web scraping techniques in order to bring to our database the names of the countries, to understand from where the people surveyd come from. As mentioned before, in the first source we have the codes, but in order to see the data more clear,it was needed to retrieve the names.
+- Third source is the **Eurostat website**. In this site, it has been used some web scraping techniques in order to bring to our database the names of the countries, to understand from where the people surveyd come from. As mentioned before, in the first source we have the codes, but in order to see the data more clear,it was needed to retrieve the names.
 
 
 
