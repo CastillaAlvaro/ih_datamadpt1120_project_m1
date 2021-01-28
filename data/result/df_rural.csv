@@ -1,0 +1,548 @@
+Country,Job Title,Living Zone,Quantity,Percentage
+Austria,Computer or Data Processing Systems Consultant,Rural,1,0.18
+Austria,Data Base Design Analyst,Rural,1,0.18
+Austria,Data Coder Operator,Rural,1,0.18
+Austria,Data Communications Software Consultant,Rural,1,0.18
+Austria,Data Coordinator,Rural,1,0.18
+Austria,Data Processing Auditor,Rural,1,0.18
+Austria,Data Security Analyst,Rural,1,0.18
+Austria,Database Design Analyst,Rural,1,0.18
+Austria,Database Development and Administration Project Manager,Rural,1,0.18
+Austria,Database Engineer,Rural,1,0.18
+Austria,Database Marketing Analyst,Rural,1,0.18
+Austria,Database Security Administrator,Rural,1,0.18
+Austria,Database Software Technician,Rural,1,0.18
+Austria,Databases Computer Consultant,Rural,1,0.18
+Austria,GPS Field Data Collector (Global Positioning System Field Data Collector),Rural,1,0.18
+Austria,Geographic Information Systems Data Administrator (GIS Data Administrator),Rural,1,0.18
+Austria,Geographic Information Systems Data Manager (GIS Data Manager),Rural,1,0.18
+Austria,Internet Database Specialist,Rural,1,0.18
+Austria,"Naval Tactical Data System--Combat Information Center Watch Officer, General",Rural,1,0.18
+Belgium,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Rural,1,0.18
+Belgium,Clinical Data Associate,Rural,2,0.37
+Belgium,Data Communications Analyst,Rural,1,0.18
+Belgium,Data Entry Representative,Rural,1,0.18
+Belgium,Data Entry Specialist,Rural,1,0.18
+Belgium,Data Officer,Rural,2,0.37
+Belgium,Data Recovery Planner,Rural,1,0.18
+Belgium,Data Security Analyst,Rural,1,0.18
+Belgium,Data Systems Manager,Rural,1,0.18
+Belgium,Data Warehouse Developer,Rural,1,0.18
+Belgium,Data Warehouse Specialist,Rural,1,0.18
+Belgium,Database Consultant,Rural,1,0.18
+Belgium,Database Management System Specialist (DBMS Specialist),Rural,1,0.18
+Belgium,Database Marketing Analyst,Rural,1,0.18
+Belgium,Director of Data Operations,Rural,1,0.18
+Belgium,Field Artillery Automated Tactical Data System Specialist,Rural,1,0.18
+Belgium,Geographic Information Systems Data Manager (GIS Data Manager),Rural,1,0.18
+Belgium,Health Data Analyst,Rural,1,0.18
+Belgium,Log Data Technician,Rural,1,0.18
+Bulgaria,Data Management Information Technology Specialist,Rural,1,0.18
+Bulgaria,Data Processing Auditor,Rural,1,0.18
+Bulgaria,Database Tester,Rural,1,0.18
+Bulgaria,Geographic Information Systems Data Manager (GIS Data Manager),Rural,1,0.18
+Bulgaria,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",Rural,1,0.18
+Croatia,Data Administrator,Rural,1,0.18
+Croatia,Data Coordinator,Rural,1,0.18
+Croatia,Data Security Administrator,Rural,1,0.18
+Czechia,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Rural,2,0.37
+Czechia,Computer or Data Processing Systems Consultant,Rural,1,0.18
+Czechia,Data Acquisition Technician,Rural,1,0.18
+Czechia,Data Architect,Rural,1,0.18
+Czechia,Data Entry Machine Operator,Rural,1,0.18
+Czechia,Data Operations Director,Rural,1,0.18
+Czechia,Data Processing Mechanic,Rural,1,0.18
+Czechia,Data Processing Systems Project Planner,Rural,1,0.18
+Czechia,Data Scientist,Rural,1,0.18
+Czechia,Data Storage Specialist,Rural,1,0.18
+Czechia,Data Systems Manager,Rural,1,0.18
+Czechia,Data Warehouse Architect,Rural,1,0.18
+Czechia,Database Administrator (DBA),Rural,1,0.18
+Czechia,Database Architect,Rural,1,0.18
+Czechia,Database Security Administrator,Rural,1,0.18
+Czechia,Databases Software Consultant,Rural,1,0.18
+Czechia,GPS Field Data Collector (Global Positioning System Field Data Collector),Rural,1,0.18
+Czechia,Naval Tactical Data System--Combat Information Center Officer,Rural,1,0.18
+Denmark,Clinical Data Manager,Rural,1,0.18
+Denmark,Data Architect,Rural,1,0.18
+Denmark,Data Communications Software Consultant,Rural,1,0.18
+Denmark,Data Keyer,Rural,1,0.18
+Denmark,Data Warehousing Specialist,Rural,1,0.18
+Denmark,Internet Database Specialist,Rural,1,0.18
+Denmark,Survey Data Technician,Rural,1,0.18
+Finland,Computer or Data Processing Systems Consultant,Rural,1,0.18
+Finland,Data Officer,Rural,1,0.18
+Finland,Data Processing Systems Analyst,Rural,1,0.18
+Finland,Data Storage Specialist,Rural,1,0.18
+Finland,Field Artillery Automated Tactical Data System Specialist,Rural,1,0.18
+Finland,Geographic Information Systems Data Administrator (GIS Data Administrator),Rural,1,0.18
+Finland,Geographic Information Systems Data Manager (GIS Data Manager),Rural,1,0.18
+France,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Rural,2,0.37
+France,Automatic Data Processing Planner (ADP Planner),Rural,1,0.18
+France,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Rural,3,0.55
+France,Business Database Analyst,Rural,1,0.18
+France,Clinical Data Coordinator,Rural,1,0.18
+France,Clinical Data Management Associate Director,Rural,1,0.18
+France,Computer or Data Processing Systems Consultant,Rural,3,0.55
+France,Data Administrator,Rural,1,0.18
+France,Data Architect,Rural,2,0.37
+France,Data Base Design Analyst,Rural,1,0.18
+France,Data Collection Technician,Rural,1,0.18
+France,Data Communications Analyst,Rural,2,0.37
+France,Data Communications Software Consultant,Rural,2,0.37
+France,Data Communications Technician,Rural,1,0.18
+France,Data Coordinator,Rural,2,0.37
+France,Data Entry Clerk,Rural,1,0.18
+France,Data Entry Machine Operator,Rural,1,0.18
+France,Data Entry Representative,Rural,1,0.18
+France,Data Entry Specialist,Rural,1,0.18
+France,Data Management Associate,Rural,4,0.73
+France,Data Management Information Technology Specialist,Rural,2,0.37
+France,Data Manager,Rural,1,0.18
+France,Data Miner,Rural,5,0.91
+France,Data Modeling Specialist,Rural,1,0.18
+France,Data Operations Director,Rural,3,0.55
+France,Data Processing Auditor,Rural,1,0.18
+France,Data Processing Manager,Rural,2,0.37
+France,Data Processing Systems Analyst,Rural,3,0.55
+France,Data Scientist,Rural,1,0.18
+France,Data Security Administrator,Rural,2,0.37
+France,Data Specialist,Rural,1,0.18
+France,Data Storage Specialist,Rural,3,0.55
+France,Data Systems Manager,Rural,2,0.37
+France,Data Technician,Rural,1,0.18
+France,Data Transcriber,Rural,1,0.18
+France,Data Warehouse Analyst,Rural,1,0.18
+France,Data Warehouse Developer,Rural,1,0.18
+France,Data Warehouse Specialist,Rural,2,0.37
+France,Data Warehousing Manager,Rural,2,0.37
+France,Database Administration Associate,Rural,4,0.73
+France,Database Administration Project Manager,Rural,1,0.18
+France,Database Architect,Rural,1,0.18
+France,Database Consultant,Rural,1,0.18
+France,Database Coordinator,Rural,4,0.73
+France,Database Design Analyst,Rural,1,0.18
+France,Database Designer,Rural,4,0.73
+France,Database Development and Administration Project Manager,Rural,2,0.37
+France,Database Engineer,Rural,1,0.18
+France,Database Management System Specialist (DBMS Specialist),Rural,2,0.37
+France,Database Marketing Analyst,Rural,3,0.55
+France,Database Modeler,Rural,4,0.73
+France,Database Programmer,Rural,1,0.18
+France,Database Security Administrator,Rural,4,0.73
+France,Database Security Expert,Rural,2,0.37
+France,Database Software Technician,Rural,2,0.37
+France,Database Specialist,Rural,2,0.37
+France,Database Tester,Rural,3,0.55
+France,Databases Computer Consultant,Rural,1,0.18
+France,Databases Software Consultant,Rural,1,0.18
+France,Director of Data Operations,Rural,4,0.73
+France,Electronic Data Interchange System Developer (EDI System Developer),Rural,3,0.55
+France,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Rural,2,0.37
+France,Field Traffic Data Technician,Rural,1,0.18
+France,Flight Test Data Acquisition Technician,Rural,1,0.18
+France,Geographic Information Systems Data Administrator (GIS Data Administrator),Rural,3,0.55
+France,Geographic Information Systems Data Specialist (GIS Data Specialist),Rural,2,0.37
+France,Head of Information Systems and Data Processing,Rural,1,0.18
+France,Internet Database Specialist,Rural,2,0.37
+France,Log Data Technician,Rural,1,0.18
+France,Maintenance Data Analyst,Rural,1,0.18
+France,Medical Data Analyst,Rural,1,0.18
+France,Micro Computer Data Processor,Rural,1,0.18
+France,Naval Tactical Data System--Combat Information Center Officer,Rural,1,0.18
+France,Oracle Database Administrator (Oracle DBA),Rural,1,0.18
+France,SCADA Technician (Supervisory Control and Data Acquisition Technician),Rural,1,0.18
+France,SQL Database Administrator,Rural,1,0.18
+France,Survey Data Technician,Rural,1,0.18
+Germany,Automatic Data Processing Planner,Rural,2,0.37
+Germany,Automatic Data Processing Planner (ADP Planner),Rural,3,0.55
+Germany,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Rural,3,0.55
+Germany,Clinical Data Coordinator,Rural,2,0.37
+Germany,Clinical Data Manager,Rural,1,0.18
+Germany,Computer or Data Processing Systems Consultant,Rural,2,0.37
+Germany,Crime Data Specialist,Rural,1,0.18
+Germany,Customer Data Technician,Rural,1,0.18
+Germany,Data Abstractor,Rural,1,0.18
+Germany,Data Administrator,Rural,5,0.91
+Germany,Data Architect,Rural,3,0.55
+Germany,Data Base Design Analyst,Rural,2,0.37
+Germany,Data Communications Analyst,Rural,4,0.73
+Germany,Data Communications Software Consultant,Rural,4,0.73
+Germany,Data Compiler,Rural,2,0.37
+Germany,Data Control Clerk Supervisor,Rural,1,0.18
+Germany,Data Coordinator,Rural,4,0.73
+Germany,Data Management Information Technology Specialist,Rural,2,0.37
+Germany,Data Miner,Rural,4,0.73
+Germany,Data Modeler,Rural,1,0.18
+Germany,Data Modeling Specialist,Rural,3,0.55
+Germany,Data Officer,Rural,3,0.55
+Germany,Data Operations Director,Rural,2,0.37
+Germany,Data Processing Auditor,Rural,1,0.18
+Germany,Data Processing Consultant,Rural,2,0.37
+Germany,Data Processing Manager,Rural,2,0.37
+Germany,Data Processing Systems Analyst,Rural,1,0.18
+Germany,Data Processing Systems Project Planner,Rural,4,0.73
+Germany,Data Processor,Rural,1,0.18
+Germany,Data Reduction Technician,Rural,1,0.18
+Germany,Data Sciences Director,Rural,1,0.18
+Germany,Data Scientist,Rural,5,0.91
+Germany,Data Security Administrator,Rural,1,0.18
+Germany,Data Security Analyst,Rural,1,0.18
+Germany,Data Specialist,Rural,1,0.18
+Germany,Data Storage Specialist,Rural,5,0.91
+Germany,Data Systems Manager,Rural,3,0.55
+Germany,Data Transcriber,Rural,2,0.37
+Germany,Data Warehouse Architect,Rural,2,0.37
+Germany,Data Warehouse Developer,Rural,4,0.73
+Germany,Data Warehouse Specialist,Rural,1,0.18
+Germany,Data Warehousing Engineer,Rural,3,0.55
+Germany,Data Warehousing Manager,Rural,1,0.18
+Germany,Data Warehousing Specialist,Rural,2,0.37
+Germany,Database Administration Associate,Rural,1,0.18
+Germany,Database Administration Manager,Rural,4,0.73
+Germany,Database Administration Project Manager,Rural,1,0.18
+Germany,Database Architect,Rural,3,0.55
+Germany,Database Consultant,Rural,1,0.18
+Germany,Database Coordinator,Rural,1,0.18
+Germany,Database Designer,Rural,1,0.18
+Germany,Database Development and Administration Project Manager,Rural,4,0.73
+Germany,Database Engineer,Rural,1,0.18
+Germany,Database Management System Specialist (DBMS Specialist),Rural,2,0.37
+Germany,Database Manager,Rural,2,0.37
+Germany,Database Marketing Analyst,Rural,2,0.37
+Germany,Database Modeler,Rural,1,0.18
+Germany,Database Security Administrator,Rural,1,0.18
+Germany,Database Security Expert,Rural,3,0.55
+Germany,Database Software Technician,Rural,3,0.55
+Germany,Database Specialist,Rural,4,0.73
+Germany,Database Tester,Rural,1,0.18
+Germany,Databases Computer Consultant,Rural,2,0.37
+Germany,Databases Software Consultant,Rural,3,0.55
+Germany,Director of Data Operations,Rural,2,0.37
+Germany,Electronic Data Interchange System Developer (EDI System Developer),Rural,3,0.55
+Germany,Flight Data Technician,Rural,2,0.37
+Germany,GPS Field Data Collector (Global Positioning System Field Data Collector),Rural,1,0.18
+Germany,Geographic Information Systems Data Administrator (GIS Data Administrator),Rural,1,0.18
+Germany,Geographic Information Systems Data Specialist (GIS Data Specialist),Rural,2,0.37
+Germany,Geographic Information Systems Database Administrator (GIS Database Administrator),Rural,1,0.18
+Germany,Head of Information Systems and Data Processing,Rural,2,0.37
+Germany,Internet Database Specialist,Rural,1,0.18
+Germany,Maintenance Data Analyst,Rural,1,0.18
+Germany,Marketing Database Analyst,Rural,1,0.18
+Germany,Medical Data Analyst,Rural,1,0.18
+Germany,Oracle Database Administrator (Oracle DBA),Rural,5,0.91
+Germany,SCADA Operator (Supervisory Control and Data Acquisition Operator),Rural,1,0.18
+Germany,Voice and Data Technician,Rural,1,0.18
+Greece,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Rural,1,0.18
+Greece,Data Architect,Rural,1,0.18
+Greece,Data Entry Technician,Rural,1,0.18
+Greece,Data Scientist,Rural,1,0.18
+Greece,Data Warehousing Specialist,Rural,1,0.18
+Greece,Geographic Information Systems Data Specialist (GIS Data Specialist),Rural,1,0.18
+Greece,Weight in Motion Field Data Collection Technician,Rural,1,0.18
+Hungary,Data Collection Technician,Rural,1,0.18
+Hungary,Data Keyer,Rural,1,0.18
+Hungary,Data Management Associate,Rural,1,0.18
+Hungary,Data Management Information Technology Specialist,Rural,1,0.18
+Hungary,Data Miner,Rural,3,0.55
+Hungary,Data Modeling Specialist,Rural,2,0.37
+Hungary,Data Processing Auditor,Rural,1,0.18
+Hungary,Data Processing Auxiliary Equipment Operator,Rural,1,0.18
+Hungary,Data Processing Manager,Rural,1,0.18
+Hungary,Data Warehouse Specialist,Rural,1,0.18
+Hungary,Database Administration Associate,Rural,2,0.37
+Hungary,Database Analyst,Rural,1,0.18
+Hungary,Database Consultant,Rural,2,0.37
+Hungary,Database Coordinator,Rural,2,0.37
+Hungary,Database Management System Specialist (DBMS Specialist),Rural,1,0.18
+Hungary,Database Programmer,Rural,1,0.18
+Hungary,Databases Software Consultant,Rural,1,0.18
+Hungary,Electronic Data Processing Auditor (EDP Auditor),Rural,1,0.18
+Hungary,Flight Test Data Acquisition Technician,Rural,1,0.18
+Hungary,Geographic Information Systems Data Manager (GIS Data Manager),Rural,1,0.18
+Hungary,Head of Information Systems and Data Processing,Rural,1,0.18
+Hungary,SQL Database Administrator,Rural,1,0.18
+Ireland,Automatic Data Processing Planner (ADP Planner),Rural,1,0.18
+Ireland,Data Architect,Rural,1,0.18
+Ireland,Data Processing Mechanic,Rural,1,0.18
+Ireland,Data Systems Manager,Rural,1,0.18
+Ireland,Data Warehousing Manager,Rural,1,0.18
+Ireland,Database Tester,Rural,1,0.18
+Ireland,Electronic Data Processing Auditor (EDP Auditor),Rural,1,0.18
+Ireland,Reference Data Expert,Rural,1,0.18
+Italy,Automatic Data Processing Planner,Rural,1,0.18
+Italy,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Rural,1,0.18
+Italy,Clinical Data Analyst,Rural,1,0.18
+Italy,Computer or Data Processing Systems Consultant,Rural,2,0.37
+Italy,Data Administrator,Rural,1,0.18
+Italy,Data Center Operator,Rural,1,0.18
+Italy,Data Communications Analyst,Rural,1,0.18
+Italy,Data Communications Technician,Rural,1,0.18
+Italy,Data Coordinator,Rural,1,0.18
+Italy,Data Entry Representative,Rural,3,0.55
+Italy,Data Management Information Technology Specialist,Rural,2,0.37
+Italy,Data Modeling Specialist,Rural,1,0.18
+Italy,Data Officer,Rural,3,0.55
+Italy,Data Processing Auditor,Rural,2,0.37
+Italy,Data Processor,Rural,1,0.18
+Italy,Data Storage Specialist,Rural,1,0.18
+Italy,Data Systems Manager,Rural,1,0.18
+Italy,Data Warehouse Analyst,Rural,1,0.18
+Italy,Data Warehouse Architect,Rural,2,0.37
+Italy,Data Warehouse Developer,Rural,1,0.18
+Italy,Data Warehouse Specialist,Rural,1,0.18
+Italy,Data Warehousing Manager,Rural,2,0.37
+Italy,Data Warehousing Specialist,Rural,1,0.18
+Italy,Database Administration Manager,Rural,2,0.37
+Italy,Database Administration Project Manager,Rural,1,0.18
+Italy,Database Administrator (DBA),Rural,1,0.18
+Italy,Database Architect,Rural,3,0.55
+Italy,Database Consultant,Rural,3,0.55
+Italy,Database Design Analyst,Rural,2,0.37
+Italy,Database Development and Administration Project Manager,Rural,3,0.55
+Italy,Database Manager,Rural,2,0.37
+Italy,Database Modeler,Rural,1,0.18
+Italy,Database Security Administrator,Rural,1,0.18
+Italy,Database Security Expert,Rural,1,0.18
+Italy,Database Software Technician,Rural,1,0.18
+Italy,Database Tester,Rural,3,0.55
+Italy,Databases Computer Consultant,Rural,1,0.18
+Italy,Director of Data Operations,Rural,2,0.37
+Italy,Electronic Data Processing Auditor (EDP Auditor),Rural,1,0.18
+Italy,Field Artillery Automated Tactical Data System Specialist,Rural,1,0.18
+Italy,Flight Test Data Acquisition Technician,Rural,1,0.18
+Italy,Geographic Information Systems Data Manager (GIS Data Manager),Rural,1,0.18
+Italy,Geographic Information Systems Data Specialist (GIS Data Specialist),Rural,2,0.37
+Italy,Geographic Information Systems Database Administrator (GIS Database Administrator),Rural,1,0.18
+Italy,Head of Information Systems and Data Processing,Rural,1,0.18
+Italy,Internet Database Specialist,Rural,1,0.18
+Italy,Marketing Database Analyst,Rural,1,0.18
+Italy,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",Rural,1,0.18
+Italy,SQL Database Administrator,Rural,1,0.18
+Italy,Weight in Motion Field Data Collection Technician,Rural,1,0.18
+Latvia,Data Processing Systems Project Planner,Rural,1,0.18
+Latvia,Database Design Analyst,Rural,1,0.18
+Latvia,Director of Data Operations,Rural,1,0.18
+Luxembourg,Data Storage Specialist,Rural,1,0.18
+Luxembourg,Database Design Analyst,Rural,1,0.18
+Malta,Database Coordinator,Rural,1,0.18
+Netherlands,Data Analyst,Rural,1,0.18
+Netherlands,Data Collector,Rural,1,0.18
+Netherlands,Data Compiler,Rural,1,0.18
+Netherlands,Data Control Assistant,Rural,1,0.18
+Netherlands,Data Coordinator,Rural,1,0.18
+Netherlands,Data Entry Supervisor,Rural,1,0.18
+Netherlands,Data Processing Equipment Repairer,Rural,1,0.18
+Netherlands,Data Processing Manager,Rural,3,0.55
+Netherlands,Data Processing Systems Analyst,Rural,2,0.37
+Netherlands,Data Security Administrator,Rural,1,0.18
+Netherlands,Data Warehouse Analyst,Rural,1,0.18
+Netherlands,Data Warehousing Engineer,Rural,1,0.18
+Netherlands,Database Administration Associate,Rural,1,0.18
+Netherlands,Database Administration Project Manager,Rural,1,0.18
+Netherlands,Database Analyst,Rural,1,0.18
+Netherlands,Database Architect,Rural,1,0.18
+Netherlands,Database Consultant,Rural,1,0.18
+Netherlands,Database Marketing Analyst,Rural,2,0.37
+Netherlands,Database Modeler,Rural,1,0.18
+Netherlands,Director of Data Operations,Rural,1,0.18
+Netherlands,Electronic Data Processing Auditor (EDP Auditor),Rural,1,0.18
+Netherlands,Geographic Information Systems Database Administrator (GIS Database Administrator),Rural,1,0.18
+Netherlands,Internet Database Specialist,Rural,1,0.18
+Netherlands,Oracle Database Administrator (Oracle DBA),Rural,2,0.37
+Netherlands,SCADA Operator (Supervisory Control and Data Acquisition Operator),Rural,1,0.18
+Poland,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Rural,2,0.37
+Poland,Automatic Data Processing Planner (ADP Planner),Rural,2,0.37
+Poland,Clinical Data Management Associate Director,Rural,1,0.18
+Poland,Data Architect,Rural,1,0.18
+Poland,Data Communications Analyst,Rural,1,0.18
+Poland,Data Communications Software Consultant,Rural,1,0.18
+Poland,Data Entry Specialist,Rural,1,0.18
+Poland,Data Management Information Technology Specialist,Rural,1,0.18
+Poland,Data Operations Director,Rural,1,0.18
+Poland,Data Processing Auditor,Rural,1,0.18
+Poland,Data Recovery Planner,Rural,1,0.18
+Poland,Data Reviewer,Rural,1,0.18
+Poland,Data Security Analyst,Rural,1,0.18
+Poland,Data Storage Specialist,Rural,1,0.18
+Poland,Data Warehouse Analyst,Rural,1,0.18
+Poland,Data Warehouse Developer,Rural,1,0.18
+Poland,Database Administrator (DBA),Rural,1,0.18
+Poland,Database Architect,Rural,1,0.18
+Poland,Database Consultant,Rural,2,0.37
+Poland,Database Design Analyst,Rural,1,0.18
+Poland,Database Development and Administration Project Manager,Rural,1,0.18
+Poland,Database Manager,Rural,1,0.18
+Poland,Database Modeler,Rural,1,0.18
+Poland,Database Software Technician,Rural,1,0.18
+Poland,Database Tester,Rural,2,0.37
+Poland,Databases Software Consultant,Rural,1,0.18
+Poland,Director of Data Operations,Rural,1,0.18
+Poland,Field Artillery Automated Tactical Data System Specialist,Rural,1,0.18
+Poland,Field Traffic Data Technician,Rural,1,0.18
+Poland,Flight Data Technician,Rural,1,0.18
+Poland,Geographic Information Systems Data Manager (GIS Data Manager),Rural,2,0.37
+Poland,Geographic Information Systems Data Specialist (GIS Data Specialist),Rural,1,0.18
+Poland,Internet Database Specialist,Rural,1,0.18
+Poland,Medical Data Analyst,Rural,1,0.18
+Poland,Oracle Database Administrator (Oracle DBA),Rural,1,0.18
+Portugal,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Rural,1,0.18
+Portugal,Data Architect,Rural,1,0.18
+Portugal,Data Base Design Analyst,Rural,1,0.18
+Portugal,Data Manager,Rural,1,0.18
+Portugal,Data Processing Clerk,Rural,1,0.18
+Portugal,Data Processing Equipment Repairer,Rural,1,0.18
+Portugal,Data Processing Manager,Rural,1,0.18
+Portugal,Data Storage Specialist,Rural,1,0.18
+Portugal,Data Warehouse Architect,Rural,1,0.18
+Portugal,Database Administration Manager,Rural,1,0.18
+Portugal,Geographic Information Systems Database Administrator (GIS Database Administrator),Rural,1,0.18
+Portugal,LiDAR Data Analyst,Rural,1,0.18
+Romania,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Rural,1,0.18
+Romania,Computer or Data Processing Systems Consultant,Rural,1,0.18
+Romania,Crime Data Specialist,Rural,1,0.18
+Romania,Data Abstractor,Rural,1,0.18
+Romania,Data Input Clerk,Rural,1,0.18
+Romania,Data Officer,Rural,1,0.18
+Romania,Data Processing Auditor,Rural,1,0.18
+Romania,Data Security Analyst,Rural,1,0.18
+Romania,Data Storage Specialist,Rural,1,0.18
+Romania,Data Systems Manager,Rural,1,0.18
+Romania,Data Warehouse Specialist,Rural,1,0.18
+Romania,Database Administration Associate,Rural,1,0.18
+Romania,Database Designer,Rural,1,0.18
+Romania,Database Engineer,Rural,1,0.18
+Romania,Databases Software Consultant,Rural,1,0.18
+Romania,Field Artillery Automated Tactical Data System Specialist,Rural,1,0.18
+Slovakia,Automatic Data Processing Planner,Rural,1,0.18
+Slovakia,Computer or Data Processing Systems Consultant,Rural,1,0.18
+Slovakia,Data Acquisition Technician,Rural,1,0.18
+Slovakia,Data Management Information Technology Specialist,Rural,1,0.18
+Slovakia,Data Processing Systems Project Planner,Rural,1,0.18
+Slovakia,Data Security Analyst,Rural,2,0.37
+Slovakia,Data Warehousing Engineer,Rural,1,0.18
+Slovakia,Database Management System Specialist (DBMS Specialist),Rural,1,0.18
+Slovakia,Geographic Information Systems Data Administrator (GIS Data Administrator),Rural,1,0.18
+Slovakia,Internet Database Specialist,Rural,1,0.18
+Slovenia,Data Management Information Technology Specialist,Rural,1,0.18
+Slovenia,Data Warehouse Architect,Rural,1,0.18
+Slovenia,Database Administration Manager,Rural,1,0.18
+Spain,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Rural,2,0.37
+Spain,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Rural,2,0.37
+Spain,Clinical Data Management Manager (CDM Manager),Rural,1,0.18
+Spain,Computer or Data Processing Systems Consultant,Rural,1,0.18
+Spain,Data Compiler,Rural,1,0.18
+Spain,Data Coordinator,Rural,1,0.18
+Spain,Data Entry Machine Operator,Rural,1,0.18
+Spain,Data Entry Specialist,Rural,1,0.18
+Spain,Data Miner,Rural,1,0.18
+Spain,Data Modeling Specialist,Rural,2,0.37
+Spain,Data Processing Auditor,Rural,1,0.18
+Spain,Data Processing Clerk,Rural,1,0.18
+Spain,Data Processing Consultant,Rural,1,0.18
+Spain,Data Processing Equipment Repairer,Rural,1,0.18
+Spain,Data Processing Systems Analyst,Rural,1,0.18
+Spain,Data Processing Systems Project Planner,Rural,1,0.18
+Spain,Data Security Administrator,Rural,1,0.18
+Spain,Data Storage Specialist,Rural,1,0.18
+Spain,Data Systems Manager,Rural,1,0.18
+Spain,Data Warehouse Architect,Rural,1,0.18
+Spain,Database Architect,Rural,1,0.18
+Spain,Database Coordinator,Rural,2,0.37
+Spain,Database Designer,Rural,1,0.18
+Spain,Database Development Project Manager,Rural,1,0.18
+Spain,Database Development and Administration Project Manager,Rural,1,0.18
+Spain,Database Engineer,Rural,1,0.18
+Spain,Database Management System Specialist (DBMS Specialist),Rural,1,0.18
+Spain,Database Marketing Analyst,Rural,1,0.18
+Spain,Database Modeler,Rural,1,0.18
+Spain,Database Security Expert,Rural,1,0.18
+Spain,Database Tester,Rural,1,0.18
+Spain,Geographic Information Systems Data Manager (GIS Data Manager),Rural,2,0.37
+Spain,Head of Information Systems and Data Processing,Rural,1,0.18
+Spain,Internet Database Specialist,Rural,2,0.37
+Spain,Marketing Database Analyst,Rural,1,0.18
+Spain,Micro Computer Data Processor,Rural,1,0.18
+Spain,Reference Data Expert,Rural,1,0.18
+Spain,SQL Database Administrator,Rural,3,0.55
+Sweden,Data Communications Analyst,Rural,1,0.18
+Sweden,Data Conversion Operator,Rural,1,0.18
+Sweden,Data Entry Representative,Rural,1,0.18
+Sweden,Data Transcriber,Rural,1,0.18
+Sweden,Database Design Analyst,Rural,1,0.18
+Sweden,Database Development and Administration Project Manager,Rural,1,0.18
+Sweden,Database Management System Specialist (DBMS Specialist),Rural,1,0.18
+Sweden,Database Security Administrator,Rural,1,0.18
+Sweden,Geographic Information Systems Database Administrator (GIS Database Administrator),Rural,1,0.18
+United Kingdom,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Rural,2,0.37
+United Kingdom,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Rural,1,0.18
+United Kingdom,Computer or Data Processing Systems Consultant,Rural,1,0.18
+United Kingdom,Customer Data Technician,Rural,1,0.18
+United Kingdom,Data Administrator,Rural,3,0.55
+United Kingdom,Data Architect,Rural,2,0.37
+United Kingdom,Data Base Design Analyst,Rural,1,0.18
+United Kingdom,Data Communications Analyst,Rural,1,0.18
+United Kingdom,Data Communications Software Consultant,Rural,2,0.37
+United Kingdom,Data Compiler,Rural,2,0.37
+United Kingdom,Data Coordinator,Rural,4,0.73
+United Kingdom,Data Entry Associate,Rural,1,0.18
+United Kingdom,Data Entry Machine Operator,Rural,1,0.18
+United Kingdom,Data Entry Operator,Rural,1,0.18
+United Kingdom,Data Keyer,Rural,1,0.18
+United Kingdom,Data Miner,Rural,1,0.18
+United Kingdom,Data Modeling Specialist,Rural,3,0.55
+United Kingdom,Data Processing Auditor,Rural,1,0.18
+United Kingdom,Data Processing Consultant,Rural,1,0.18
+United Kingdom,Data Processing Control Clerk,Rural,1,0.18
+United Kingdom,Data Processing Manager,Rural,1,0.18
+United Kingdom,Data Processing Mechanic,Rural,1,0.18
+United Kingdom,Data Processing Services Sales Representative,Rural,1,0.18
+United Kingdom,Data Processing Systems Analyst,Rural,4,0.73
+United Kingdom,Data Processing Systems Project Planner,Rural,3,0.55
+United Kingdom,Data Scientist,Rural,1,0.18
+United Kingdom,Data Security Administrator,Rural,1,0.18
+United Kingdom,Data Security Analyst,Rural,2,0.37
+United Kingdom,Data Storage Specialist,Rural,1,0.18
+United Kingdom,Data Systems Manager,Rural,1,0.18
+United Kingdom,Data Warehouse Architect,Rural,4,0.73
+United Kingdom,Data Warehouse Developer,Rural,2,0.37
+United Kingdom,Data Warehousing Specialist,Rural,2,0.37
+United Kingdom,Database Administration Associate,Rural,1,0.18
+United Kingdom,Database Administration Manager,Rural,2,0.37
+United Kingdom,Database Administration Project Manager,Rural,2,0.37
+United Kingdom,Database Architect,Rural,2,0.37
+United Kingdom,Database Consultant,Rural,2,0.37
+United Kingdom,Database Coordinator,Rural,2,0.37
+United Kingdom,Database Design Analyst,Rural,1,0.18
+United Kingdom,Database Designer,Rural,3,0.55
+United Kingdom,Database Developer,Rural,1,0.18
+United Kingdom,Database Development Project Manager,Rural,1,0.18
+United Kingdom,Database Development and Administration Project Manager,Rural,1,0.18
+United Kingdom,Database Engineer,Rural,2,0.37
+United Kingdom,Database Management System Specialist (DBMS Specialist),Rural,5,0.91
+United Kingdom,Database Manager,Rural,3,0.55
+United Kingdom,Database Marketing Analyst,Rural,4,0.73
+United Kingdom,Database Modeler,Rural,1,0.18
+United Kingdom,Database Security Administrator,Rural,1,0.18
+United Kingdom,Database Security Expert,Rural,1,0.18
+United Kingdom,Database Software Technician,Rural,1,0.18
+United Kingdom,Database Specialist,Rural,1,0.18
+United Kingdom,Database Tester,Rural,1,0.18
+United Kingdom,Databases Computer Consultant,Rural,4,0.73
+United Kingdom,Director of Data Operations,Rural,1,0.18
+United Kingdom,Electronic Data Interchange System Developer (EDI System Developer),Rural,1,0.18
+United Kingdom,Electronic Data Processing Auditor (EDP Auditor),Rural,1,0.18
+United Kingdom,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Rural,1,0.18
+United Kingdom,Field Traffic Data Technician,Rural,1,0.18
+United Kingdom,Flight Data Technician,Rural,1,0.18
+United Kingdom,Flight Test Data Acquisition Technician,Rural,1,0.18
+United Kingdom,Geographic Information Systems Data Administrator (GIS Data Administrator),Rural,2,0.37
+United Kingdom,Geographic Information Systems Data Manager (GIS Data Manager),Rural,1,0.18
+United Kingdom,Geographic Information Systems Data Specialist (GIS Data Specialist),Rural,1,0.18
+United Kingdom,Geographic Information Systems Database Administrator (GIS Database Administrator),Rural,4,0.73
+United Kingdom,Head of Information Systems and Data Processing,Rural,1,0.18
+United Kingdom,Internet Database Specialist,Rural,2,0.37
+United Kingdom,Marketing Database Analyst,Rural,1,0.18
+United Kingdom,Medical Data Analyst,Rural,1,0.18
+United Kingdom,Naval Tactical Data System--Combat Information Center Officer,Rural,1,0.18
+United Kingdom,Oracle Database Administrator (Oracle DBA),Rural,1,0.18
