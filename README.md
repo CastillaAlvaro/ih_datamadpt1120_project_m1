@@ -1,11 +1,12 @@
 # ih_datamadpt1120_project_m1
 
-The README file describes the essence of the project playing the most important role. Most visitors will simply scroll down about twice on the README and leave if they are not interested. So, the README file should provide the reason **why** to checkout your project!!!). 
-Bearing that in mind, your job is to: 
-- Tell them what it is (with context).
-- Show them what it looks like in action.
-- Show them how they use it.
-- Tell them any other relevant details.
+This project consist mainly in extracting some data from three differente sources, transforme it and be able to obtain insights.
+
+- The first source used to retrieve some data, is a **.db file**. In this file you will find a sample of different european citizens answering several questions  related to politics. Furthermore, you will see some other relevant information such as **gender, age, country, level of studies, etc.** 
+
+- The second source, is an API **(Open Skills Project)**. From this fount has been retrieved the job names that correspond to the several job codes that appear in the first source, the .db file. Otherwise, it would have been difficult to understand which was the professional background of the people surveyed.
+
+
 
 ![Image](https://res.cloudinary.com/springboard-images/image/upload/q_auto,f_auto,fl_lossy/wordpress/2019/05/aiexcerpt.png)
 
