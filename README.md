@@ -19,11 +19,12 @@ Once checked the information provided by the API, I figured out that all job cod
 
 ## **Libraries used**
 1. Sqlalchemy
-2. BeautifulSoup
-3. Pandas
-4. Rquests
-5. Numpy
-6. Re
+2. Argparse
+3. BeautifulSoup
+4. Pandas
+5. Rquests
+6. Numpy
+7. Re
 
 
 
@@ -39,7 +40,20 @@ conda activate name_env
 
 ### :see_no_evil: Usage
 
-- Clone this repo
+- Clone this repo locally.
+
+- Open a terminal, activate the appropiate environment and navigate to the repo's path.
+
+-  As we are using **argparse** you have to specify to parameter to run the script:
+        
+        '-p' '--path' (which is required) / '-c' '--country' (Optional - Default=all)
+        
+                                            country_choices=['Austria', 'Belgium', 'Bulgaria', 'Cyprus', 'Czechia', 'Germany', 'Denmark', 'Estonia',
+                                            'Spain', 'Finland', 'France','United Kingdom', 'Greece', 'Croatia', 'Hungary', 
+                                            'Ireland', 'Italy', 'Lithuania','Luxembourg', 'Latvia', 'Malta','Netherlands', 
+                                            'Poland','Portugal', 'Romania', 'Sweden', 'Slovenia', 'Slovakia']
+                                 
+                                  
 
 ### :file_folder: Folder structure
 ```
