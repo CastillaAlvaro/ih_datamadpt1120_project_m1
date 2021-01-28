@@ -36,10 +36,10 @@ If you are using the Anaconda distribution. Run the following command to activat
 conda activate name_env
 ```
 
-**Note:** Environment managers differ from one another. It's strongly recommended to check its documentation.
 
 ### :see_no_evil: Usage
-Parameters, return values, known issues, thrown errors.
+
+- Clone this repo
 
 ### :file_folder: Folder structure
 ```
