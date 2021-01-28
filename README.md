@@ -28,12 +28,12 @@ Once checked the information provided by the API, I figured out that all job cod
 
 
 ## :wrench: Configuration
-Install Python 3.7 and mandatory dependencies listed in the requirements file. 
+Install Python 3.7 and mandatory dependencies listed before. 
 
-If you are using the Anaconda distribution. Run the following command to create a new environment named "name environment here!"
+If you are using the Anaconda distribution. Run the following command to activate the environment where you have all these dependencies installed.
 
 ```
-conda env create -f requirements.yml
+conda activate name_env
 ```
 
 **Note:** Environment managers differ from one another. It's strongly recommended to check its documentation.
