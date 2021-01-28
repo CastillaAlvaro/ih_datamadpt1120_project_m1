@@ -53,7 +53,7 @@ conda activate name_env
                                             'Ireland', 'Italy', 'Lithuania','Luxembourg', 'Latvia', 'Malta','Netherlands', 
                                             'Poland','Portugal', 'Romania', 'Sweden', 'Slovenia', 'Slovakia']
                                  
- - In the terminal write python main.py -p raw_data_project_m1.db **or** main.py -p raw_data_project_m1.db -c 'Country'
+ - In the terminal write:  python main.py -p raw_data_project_m1.db **or** main.py -p raw_data_project_m1.db -c 'Country'
                                   
 
 ### :file_folder: Folder structure
